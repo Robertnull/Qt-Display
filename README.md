@@ -2,4 +2,4 @@
 
 Display software for BeagleBone Black
 
-Project Started by BoOe 11-14
+Project based on BoOe 11-14
